@@ -9,6 +9,7 @@ Luis Vasquez
 
 
 
+
 ¿Cómo obtuviste el valor de k a usar?
 
 Se uso el valor de K 3 debido que solo habian 3 varibles llamadas Iris_setosa, Iris_versicolor, Iris_virginica
@@ -16,7 +17,11 @@ Se uso el valor de K 3 debido que solo habian 3 varibles llamadas Iris_setosa, I
 
 ¿Los centros serían más representativos si usaras un valor más alto? ¿Más bajo?
 
+Si, mientras mas alto el valor mas representativo y de la misma forma 
+
 ¿Qué distancia tienen los centros entre sí? ¿Hay alguno que este muy cercano a otros?
+
+
 
 ¿Qué pasaría con los centros si tuviéramos muchos outliers en el análisis de cajas y bigotes?
 
