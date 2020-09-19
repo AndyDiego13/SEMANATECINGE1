@@ -1,25 +1,15 @@
 # retoAnalitica
 
-Andrea Diego
-Ivan Manzano
-Luis Vasquez
+REFLEXIÓN FINAL
 
+Debido a que utilizamos "k_means" un algoritmo de clustering, es decir, no supervisado podemos afirmar que los centros son representativos, ya que clasificamos los objetos con base a su semejanza con otros logrando una concentración de los más importantes.
 
-¿Crees que estos centros puedan ser representativos de los datos? ¿Por qué?
+Con respecto a nuestra iris.data el valor de "k" fue solo de 3 porque solo había tres variables a considerar, iris_setosa, iris_versicolor y iris_virginica.
 
+Para poder incrementar la representación de los centros se tendría que aumentar el valor de los mismos, ya que se tendrían más de la misma forma.
 
+La distancia entre los centros es bastante adecuada es difícil que se lleguen a juntar dos centros por la implementación de la distancia euclideana.
 
-
-¿Cómo obtuviste el valor de k a usar?
-
-Se uso el valor de K 3 debido que solo habian 3 varibles llamadas Iris_setosa, Iris_versicolor, Iris_virginica
-
-
-¿Los centros serían más representativos si usaras un valor más alto? ¿Más bajo?
-
-Si, mientras mas alto el valor mas representativo y de la misma forma 
-
-¿Qué distancia tienen los centros entre sí? ¿Hay alguno que este muy cercano a otros?
 
 
 
